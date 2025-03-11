@@ -1,0 +1,4 @@
+git add C:\Users\54114\Documents\N26\train.csv
+git commit -m "Agregando archivos CSV"
+git push origin main
+
